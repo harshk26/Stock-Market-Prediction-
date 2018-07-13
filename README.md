@@ -1,6 +1,9 @@
 # Stock-Market-Prediction-
 Stock Market Prediction using Machine Learning
 
+This is a basic stock market predictor
+Uses SVM(Support Vector Machine)
+
 Methodology:
 Raw Data containing information about stocks was collected online. I collected 6 years of data from July 9,2012 to July 8,2018. Data was collected from the following 8 companies: Amazon, Facebook, Google, Microsoft, Netflix, Samsung, Sony, Tesla. The selection of the companies was completely random. In addition to this data was collected from the NASDAQ Stock Exchange Market. 
 The data obtained contained the following features: Date, Open, High, Close, Adj Close and Volume. I considered the daily closing values of each stock as their stock value.
