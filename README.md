@@ -2,6 +2,7 @@
 Stock Market Prediction using Machine Learning
 
 This is a basic stock market predictor
+
 Uses SVM(Support Vector Machine)
 
 Methodology:
